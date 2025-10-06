@@ -130,8 +130,9 @@ Execute the program using runserver command.
 </html>
 
 
-# OUTPUT
+# OUPUT
 #![alt text](<Screenshot 2025-10-06 160305.png>)
+
 
 
 
